@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [evanmenges.com](evanmenges.com)
 
-- ⚡ Fun fact **Fluent in French | Working On Mandarin & Spanish**
+- ⚡ Fun fact **Fluent in French | Working on Mandarin & Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
