@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3venthatguy" alt="3venthatguy" /></a> </p>
 
-- 🔭 I’m currently working on **Minerva | An Online AI-Supported Writing Journal**
+- 🔭 I’m currently working on **Minerva | A desktop overlay that transforms what you're reading into interactive simulations. Automatically generates explorable graphs from business reports, physics simulations from textbooks, and visual experiences from any content—helping you understand through interaction, not just reading.**
 
-- 🌱 I’m currently learning **Swift | TensorFlow | Firebase**
+- 🌱 I’m currently learning **Diffusion | Transformers**
 
 - 📫 How to reach me **evan_menges@protonmail.com**
 
