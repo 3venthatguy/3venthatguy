@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3venthatguy" alt="3venthatguy" /></a> </p>
 
-- 🔭 I’m currently working on **Minerva**
+- 🔭 I’m currently working on **[Minerva](https://github.com/3venthatguy/minerva)**
 - **[View Repository →](https://github.com/3venthatguy/minerva)**
 
 - 🌱 I’m currently learning **Diffusion | Transformers**
