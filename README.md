@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **evan_menges@protonmail.com**
 
-- 📄 Know about my experiences [evanmenges.com](evanmenges.com)
+- 📄 Know about my experiences [evanmenges.com](https://evanmenges.com)
 
 - ⚡ Fun fact **Fluent in French | Working on Mandarin & Spanish**
 
